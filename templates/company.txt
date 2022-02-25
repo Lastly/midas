@@ -1,0 +1,17 @@
+Ford
+stock_symbol: F
+stock_market: NYSE
+ceo: Jim Farley
+headquarters: Dearborn, MI
+industry: automotive, manufacturing, electric vehicle
+founded_date: 1903
+founder: Henry Ford
+legal_name: Ford Motor Company
+website: https://ford.com
+summary: Ford Motor Company is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States.
+competitors: Chevrolet, Toyota, Honda
+wikipedia_url: https://en.wikipedia.org/wiki/Ford_Motor_Company
+crunchbase_url: https://www.crunchbase.com/organization/ford
+instagram_url: https://www.instagram.com/ford
+twitter_url: https://twitter.com/Ford
+youtube_url: https://www.youtube.com/user/ford

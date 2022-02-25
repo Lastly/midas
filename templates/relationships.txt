@@ -1,0 +1,13 @@
+Map relationships between objects. Relationships can be one of: industry, CEO, type, producer, location, category. Write none if there is no relationship.
+---
+Honda | Ford = {industry: automotive, industry: manufacturing}
+Slack | Discord = {industry: communications, industry: software}
+C++ | Ruby = {type: programming language}
+US Dollar | Sea turtle = none
+Twitter | Facebook = {industry: social media}
+Google Chrome | Firefox = {type: web browser, category: consumer software}
+iPhone | iPad = {producer: Apple}
+Airpods | Galaxy Buds = {type: headphones}
+Iron Condor | Strangle = {type: options trading strategy}
+SpaceX | Tesla = {CEO: Elon Musk, category: technology}
+Peso | Ruble = {type: currency}

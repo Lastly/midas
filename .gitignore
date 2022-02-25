@@ -1,0 +1,6 @@
+.env
+.idea/*
+.deta/*
+midas_app/.idea/*
+midas_app/.env
+midas_app/.deta/*
